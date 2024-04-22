@@ -1,0 +1,246 @@
+[
+    { "id": 1, "title": "Day the Fish Came Out, The", "genre": "Comedy|Sci-Fi" },
+    { "id": 2, "title": "Moving Out", "genre": "Drama" },
+    { "id": 3, "title": "Whole Nine Yards, The", "genre": "Comedy|Crime" },
+    {
+      "id": 4,
+      "title": "How Green Was My Valley",
+      "genre": "Drama|Musical|Romance"
+    },
+    { "id": 5, "title": "His Brother (Son frère)", "genre": "Drama" },
+    { "id": 6, "title": "Rid of Me", "genre": "Comedy|Drama|Romance" },
+    { "id": 7, "title": "Terror in a Texas Town", "genre": "Western" },
+    { "id": 8, "title": "There Was a Crooked Man...", "genre": "Comedy|Western" },
+    {
+      "id": 9,
+      "title": "Secret Beyond the Door",
+      "genre": "Drama|Film-Noir|Mystery|Thriller"
+    },
+    {
+      "id": 10,
+      "title": "State of Things, The (Stand der Dinge, Der)",
+      "genre": "Drama"
+    },
+    { "id": 11, "title": "Blackbird", "genre": "Drama" },
+    {
+      "id": 12,
+      "title": "Sidewalks of London (St. Martin's Lane)",
+      "genre": "Comedy"
+    },
+    { "id": 13, "title": "Continental Divide", "genre": "Comedy|Romance" },
+    { "id": 14, "title": "Ninja", "genre": "Action|Crime|Drama|Thriller" },
+    {
+      "id": 15,
+      "title": "Wind That Shakes the Barley, The",
+      "genre": "Drama|War"
+    },
+    { "id": 16, "title": "Shanghai", "genre": "Drama|Mystery|Romance" },
+    {
+      "id": 17,
+      "title": "Sorcerer and the White Snake, The (Bai she chuan shuo)",
+      "genre": "Action|Fantasy|Romance"
+    },
+    {
+      "id": 18,
+      "title": "Marilyn Hotchkiss' Ballroom Dancing & Charm School",
+      "genre": "Comedy|Drama|Romance"
+    },
+    { "id": 19, "title": "Lincoln Lawyer, The", "genre": "Crime|Drama|Thriller" },
+    {
+      "id": 20,
+      "title": "Rhinoceros",
+      "genre": "Comedy|Drama|Fantasy|Mystery|Romance"
+    },
+    { "id": 21, "title": "Like Sunday, Like Rain", "genre": "Drama|Romance" },
+    { "id": 22, "title": "Pandorum", "genre": "Horror|Sci-Fi|Thriller" },
+    { "id": 23, "title": "Macao", "genre": "Adventure" },
+    { "id": 24, "title": "Scanners", "genre": "Horror|Sci-Fi|Thriller" },
+    { "id": 25, "title": "Sisters", "genre": "Horror|Thriller" },
+    { "id": 26, "title": "Bandits", "genre": "Comedy|Crime|Romance" },
+    { "id": 27, "title": "Omen, The", "genre": "Horror|Mystery|Thriller" },
+    { "id": 28, "title": "Restrepo", "genre": "Documentary|War" },
+    {
+      "id": 29,
+      "title": "Fly Me to the Moon",
+      "genre": "Adventure|Animation|Children|IMAX"
+    },
+    {
+      "id": 30,
+      "title": "Springtime in a Small Town (Xiao cheng zhi chun)",
+      "genre": "Drama|Romance"
+    },
+    { "id": 31, "title": "April Fools, The", "genre": "Comedy|Drama|Romance" },
+    { "id": 32, "title": "Human Desire", "genre": "Drama|Film-Noir" },
+    { "id": 33, "title": "Haunted House, The", "genre": "Comedy" },
+    { "id": 34, "title": "Flicker (Flimmer)", "genre": "Comedy|Drama" },
+    {
+      "id": 35,
+      "title": "Living Daylights, The",
+      "genre": "Action|Adventure|Thriller"
+    },
+    {
+      "id": 36,
+      "title": "In the Midst of Life (Au coeur de la vie)",
+      "genre": "Drama|War"
+    },
+    { "id": 37, "title": "Fake It So Real", "genre": "Documentary" },
+    { "id": 38, "title": "Two Escobars, The", "genre": "Crime|Documentary" },
+    { "id": 39, "title": "JFK: The Smoking Gun", "genre": "Documentary" },
+    { "id": 40, "title": "Terraferma", "genre": "Drama" },
+    { "id": 41, "title": "Avenger ", "genre": "Thriller" },
+    { "id": 42, "title": "Les invincibles", "genre": "Comedy" },
+    {
+      "id": 43,
+      "title": "Mass Effect: Paragon Lost",
+      "genre": "Action|Animation|Sci-Fi"
+    },
+    { "id": 44, "title": "Pick-up Summer (Pinball Summer)", "genre": "Comedy" },
+    { "id": 45, "title": "Shun Li and the Poet", "genre": "Drama" },
+    {
+      "id": 46,
+      "title": "War of the Robots (La guerra dei robot)",
+      "genre": "Action|Adventure|Sci-Fi"
+    },
+    { "id": 47, "title": "Femme Fatale", "genre": "Crime|Thriller" },
+    { "id": 48, "title": "Dedication", "genre": "Comedy|Drama|Romance" },
+    { "id": 49, "title": "Murder of Crows, A", "genre": "Action|Crime|Thriller" },
+    { "id": 50, "title": "Blue Sky", "genre": "Drama|Romance" },
+    {
+      "id": 51,
+      "title": "Bad Lieutenant: Port of Call New Orleans",
+      "genre": "Crime|Drama"
+    },
+    {
+      "id": 52,
+      "title": "Plunkett & MaCleane",
+      "genre": "Action|Adventure|Drama"
+    },
+    {
+      "id": 53,
+      "title": "First Strike (Police Story 4: First Strike) (Ging chaat goo si 4: Ji gaan daan yam mo)",
+      "genre": "Action|Adventure|Comedy|Thriller"
+    },
+    {
+      "id": 54,
+      "title": "Next Karate Kid, The",
+      "genre": "Action|Children|Romance"
+    },
+    { "id": 55, "title": "Sweet Liberty", "genre": "Comedy" },
+    {
+      "id": 56,
+      "title": "Hellboy II: The Golden Army",
+      "genre": "Action|Adventure|Fantasy|Sci-Fi"
+    },
+    {
+      "id": 57,
+      "title": "Shop on Main Street, The (Obchod na korze)",
+      "genre": "Drama"
+    },
+    {
+      "id": 58,
+      "title": "Robin Hood",
+      "genre": "Action|Adventure|Drama|Romance|War"
+    },
+    { "id": 59, "title": "God Grew Tired of Us", "genre": "Documentary|Drama" },
+    { "id": 60, "title": "Dread", "genre": "Horror" },
+    { "id": 61, "title": "Big Eden", "genre": "Drama|Romance" },
+    { "id": 62, "title": "Juarez", "genre": "Drama|Romance" },
+    {
+      "id": 63,
+      "title": "Every Other Week (Varannan vecka)",
+      "genre": "Comedy|Drama|Romance"
+    },
+    {
+      "id": 64,
+      "title": "You Are So Beautiful (Je vous trouve très beau)",
+      "genre": "Comedy|Romance"
+    },
+    { "id": 65, "title": "Wag the Dog", "genre": "Comedy" },
+    {
+      "id": 66,
+      "title": "Song of the South",
+      "genre": "Adventure|Animation|Children|Musical"
+    },
+    { "id": 67, "title": "Movie, A", "genre": "Documentary" },
+    { "id": 68, "title": "Locke", "genre": "Drama" },
+    { "id": 69, "title": "Late Quartet, A", "genre": "Drama" },
+    { "id": 70, "title": "Our Modern Maidens", "genre": "Comedy|Drama" },
+    {
+      "id": 71,
+      "title": "They Call Us Misfits (Dom kallar oss mods)",
+      "genre": "Documentary"
+    },
+    { "id": 72, "title": "Further Gesture, A", "genre": "Drama" },
+    { "id": 73, "title": "Midnight Cowboy", "genre": "Drama" },
+    { "id": 74, "title": "Gabriel", "genre": "Action|Horror" },
+    {
+      "id": 75,
+      "title": "The Amazing Spider-Man 2",
+      "genre": "Action|Sci-Fi|IMAX"
+    },
+    { "id": 76, "title": "Black Knight", "genre": "Adventure|Comedy|Fantasy" },
+    { "id": 77, "title": "Girl, The", "genre": "Drama" },
+    { "id": 78, "title": "The Expelled", "genre": "Horror|Thriller" },
+    {
+      "id": 79,
+      "title": "Werner - Beinhart!",
+      "genre": "Action|Animation|Comedy"
+    },
+    { "id": 80, "title": "Come September", "genre": "Comedy" },
+    { "id": 81, "title": "49 Up", "genre": "Documentary" },
+    { "id": 82, "title": "Zizek!", "genre": "Documentary" },
+    { "id": 83, "title": "Adventures of Don Juan", "genre": "Adventure|Romance" },
+    { "id": 84, "title": "Mother and Child", "genre": "Drama" },
+    {
+      "id": 85,
+      "title": "End of Days",
+      "genre": "Action|Fantasy|Horror|Mystery|Thriller"
+    },
+    {
+      "id": 86,
+      "title": "Walking With Dinosaurs",
+      "genre": "Adventure|Animation|Children"
+    },
+    {
+      "id": 87,
+      "title": "Red Angel (Akai tenshi)",
+      "genre": "Drama|Romance|War"
+    },
+    {
+      "id": 88,
+      "title": "Batman: Under the Red Hood",
+      "genre": "Action|Animation"
+    },
+    {
+      "id": 89,
+      "title": "Courage of the Eagles, The (Les aiguilles rouges)",
+      "genre": "Drama"
+    },
+    { "id": 90, "title": "Saboteur", "genre": "Mystery|Thriller" },
+    { "id": 91, "title": "3 Idiots", "genre": "Comedy|Drama|Romance" },
+    { "id": 92, "title": "Package, The", "genre": "Action|Thriller" },
+    {
+      "id": 93,
+      "title": "Lights in the Dusk (Laitakaupungin valot)",
+      "genre": "Crime|Drama"
+    },
+    {
+      "id": 94,
+      "title": "Hacks (Sink or Swim) (Big Twist, The)",
+      "genre": "Comedy|Mystery"
+    },
+    { "id": 95, "title": "Secrets of Jonathan Sperry, The", "genre": "Drama" },
+    { "id": 96, "title": "Mogambo", "genre": "Adventure|Drama|Romance" },
+    {
+      "id": 97,
+      "title": "Jetsons: The Movie",
+      "genre": "Animation|Children|Comedy|Musical|Sci-Fi"
+    },
+    {
+      "id": 98,
+      "title": "Good Old Daze (Le péril jeune)",
+      "genre": "Comedy|Drama"
+    },
+    { "id": 99, "title": "Kika", "genre": "Comedy|Drama" },
+    { "id": 100, "title": "James Dean Story, The", "genre": "Documentary" }
+  ]
